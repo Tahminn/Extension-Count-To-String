@@ -1,0 +1,11 @@
+D:\Documents\Code\C#\C Sharp\HM.Interface\obj\Debug\netcoreapp2.1\HM.Interface.csprojAssemblyReference.cache
+D:\Documents\Code\C#\C Sharp\HM.Interface\obj\Debug\netcoreapp2.1\HM.Interface.csproj.CoreCompileInputs.cache
+D:\Documents\Code\C#\C Sharp\HM.Interface\obj\Debug\netcoreapp2.1\HM.Interface.AssemblyInfoInputs.cache
+D:\Documents\Code\C#\C Sharp\HM.Interface\obj\Debug\netcoreapp2.1\HM.Interface.AssemblyInfo.cs
+D:\Documents\Code\C#\C Sharp\HM.Interface\bin\Debug\netcoreapp2.1\HM.Interface.deps.json
+D:\Documents\Code\C#\C Sharp\HM.Interface\bin\Debug\netcoreapp2.1\HM.Interface.runtimeconfig.json
+D:\Documents\Code\C#\C Sharp\HM.Interface\bin\Debug\netcoreapp2.1\HM.Interface.runtimeconfig.dev.json
+D:\Documents\Code\C#\C Sharp\HM.Interface\bin\Debug\netcoreapp2.1\HM.Interface.dll
+D:\Documents\Code\C#\C Sharp\HM.Interface\bin\Debug\netcoreapp2.1\HM.Interface.pdb
+D:\Documents\Code\C#\C Sharp\HM.Interface\obj\Debug\netcoreapp2.1\HM.Interface.dll
+D:\Documents\Code\C#\C Sharp\HM.Interface\obj\Debug\netcoreapp2.1\HM.Interface.pdb
