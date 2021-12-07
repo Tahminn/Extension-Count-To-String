@@ -1,0 +1,10 @@
+D:\Documents\Code\C#\C Sharp\HM.ExtensionToString\bin\Debug\netcoreapp2.1\HM.ExtensionToString.deps.json
+D:\Documents\Code\C#\C Sharp\HM.ExtensionToString\bin\Debug\netcoreapp2.1\HM.ExtensionToString.runtimeconfig.json
+D:\Documents\Code\C#\C Sharp\HM.ExtensionToString\bin\Debug\netcoreapp2.1\HM.ExtensionToString.runtimeconfig.dev.json
+D:\Documents\Code\C#\C Sharp\HM.ExtensionToString\bin\Debug\netcoreapp2.1\HM.ExtensionToString.dll
+D:\Documents\Code\C#\C Sharp\HM.ExtensionToString\bin\Debug\netcoreapp2.1\HM.ExtensionToString.pdb
+D:\Documents\Code\C#\C Sharp\HM.ExtensionToString\obj\Debug\netcoreapp2.1\HM.ExtensionToString.csproj.CoreCompileInputs.cache
+D:\Documents\Code\C#\C Sharp\HM.ExtensionToString\obj\Debug\netcoreapp2.1\HM.ExtensionToString.AssemblyInfoInputs.cache
+D:\Documents\Code\C#\C Sharp\HM.ExtensionToString\obj\Debug\netcoreapp2.1\HM.ExtensionToString.AssemblyInfo.cs
+D:\Documents\Code\C#\C Sharp\HM.ExtensionToString\obj\Debug\netcoreapp2.1\HM.ExtensionToString.dll
+D:\Documents\Code\C#\C Sharp\HM.ExtensionToString\obj\Debug\netcoreapp2.1\HM.ExtensionToString.pdb
