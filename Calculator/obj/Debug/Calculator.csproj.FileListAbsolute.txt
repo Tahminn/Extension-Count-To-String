@@ -1,6 +1,0 @@
-D:\Documents\Code\C#\C Sharp\Calculator\bin\Debug\Calculator.dll
-D:\Documents\Code\C#\C Sharp\Calculator\bin\Debug\Calculator.pdb
-D:\Documents\Code\C#\C Sharp\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
-D:\Documents\Code\C#\C Sharp\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
-D:\Documents\Code\C#\C Sharp\Calculator\obj\Debug\Calculator.dll
-D:\Documents\Code\C#\C Sharp\Calculator\obj\Debug\Calculator.pdb
